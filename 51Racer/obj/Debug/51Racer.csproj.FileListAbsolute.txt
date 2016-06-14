@@ -1,0 +1,14 @@
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.Form1.resources
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.Properties.Resources.resources
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\51Racer.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\bin\Debug\51Racer.exe
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\bin\Debug\51Racer.pdb
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\51Racer.exe
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\51Racer.pdb
+d:\backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\51Racer.csprojResolveAssemblyReference.cache
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.AppImageListPanel.resources
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.BackImageButton.resources
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.ImageApp.resources
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.ImageButton.resources
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.AppPackage.resources
+d:\Backup\documents\visual studio 2013\Projects\51Racer\51Racer\obj\Debug\_51Racer.PackageForm.resources
